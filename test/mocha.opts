@@ -1,0 +1,4 @@
+--require test/helper.js
+--reporter spec
+--recursive
+test/**/**/*Test.js*
