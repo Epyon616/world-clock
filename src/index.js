@@ -4,5 +4,7 @@ import './stylesheets/index.css';
 import '../stylesheets/App.css';
 import WorldClock from './components/WorldClock';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
   <WorldClock />,
+  document.getElementById('root')
+);
