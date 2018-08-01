@@ -9,7 +9,8 @@
 
 time {
   color: #39ff14;
+  display: block;
   font-size: 10em;
-  margin: 18% 0;
+  margin: 14% 0;
   width: 100%;
 }
